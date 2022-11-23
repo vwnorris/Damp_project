@@ -1,0 +1,1622 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filter snapshot test render filter component 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-1vme478-MuiGrid-root"
+  data-testid="gameCardContainer"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Overcooked"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="https://cdn.akamai.steamstatic.com/steam/apps/379720/header.jpg"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Overcooked
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                >
+                  ⭐ 84%
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  May 12, 1962
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  42$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-8649g4-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  Action
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Trackmania"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="https://cdn.akamai.steamstatic.com/steam/apps/379720/header.jpg"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Trackmania
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  September 17, 1959
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  45$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-158wpwh-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  Strategy
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-EldenRing"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Elden Ring
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  December 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  60$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Fifa21"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Fifa 21
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-HabboHotel"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Habbo Hotel
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Minecraft"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Minecraft
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-COD"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  COD
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Fortnite"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Fortnite
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-DOOM"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  DOOM
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-MannyCalavera"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Manny Calavera
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Evensen"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Evensen
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-MoneyHeist"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Money Heist
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-TheWitcher"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  The Witcher
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-TheLastofUs"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  The Last of Us
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-TheLastofUs2"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  The Last of Us 2
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  40$
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            >
+              <div
+                className="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-sbrmq3-MuiChip-root"
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+              >
+                <span
+                  className="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                >
+                  RPG
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-bg6aee-MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-133i4ok-MuiPaper-root-MuiCard-root"
+      data-testid="gameCard-Movistar"
+      onClick={[Function]}
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root css-1pz8km4-MuiButtonBase-root-MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <img
+          alt="complex"
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height="140"
+          src="/images/default.png"
+        />
+        <div
+          className="MuiCardContent-root css-16d4f6n-MuiCardContent-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1y7as2u-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container MuiGrid-item css-9pwih8-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-mvvmou-MuiTypography-root"
+                >
+                  Movistar
+                </p>
+              </div>
+              <div
+                className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+              >
+                <div
+                  className="MuiTypography-root MuiTypography-subtitle1 css-10wpov9-MuiTypography-root"
+                />
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-4pkl32-MuiGrid-root"
+            >
+              <div
+                className="MuiBox-root css-9jay18"
+              >
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  November 6, 1999
+                </p>
+                <p
+                  className="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-186q1z4-MuiTypography-root"
+                >
+                  Free
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-1nyge9p-MuiGrid-root"
+            />
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root css-3rgs8z"
+  >
+    <span
+      className="MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary css-5106e7-MuiCircularProgress-root"
+      role="progressbar"
+      style={
+        Object {
+          "height": 40,
+          "width": 40,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg css-1idz92c-MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate css-176wh8e-MuiCircularProgress-circle"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={20.2}
+          strokeWidth={3.6}
+          style={Object {}}
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    data-testid="back-to-top"
+    style={
+      Object {
+        "bottom": "20px",
+        "position": "fixed",
+        "right": "50%",
+      }
+    }
+  />
+</div>
+`;
